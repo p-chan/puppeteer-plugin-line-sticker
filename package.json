@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-plugin-line-sticker-url",
+  "version": "1.0.0",
+  "description": "A Puppeteer plugin to get the LINE Sticker URL",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "P-Chan",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "@types/puppeteer": "^1.19.1",
+    "typescript": "^3.5.3"
+  }
+}
