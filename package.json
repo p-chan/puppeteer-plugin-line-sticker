@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-plugin-line-sticker-url",
-  "version": "1.0.0",
-  "description": "A Puppeteer plugin to get the LINE Sticker URL",
+  "name": "puppeteer-plugin-line-sticker",
+  "version": "2.0.0",
+  "description": "A Puppeteer plugin to get the LINE Sticker",
   "main": "dist/index.js",
   "scripts": {
     "start": "node .",
